@@ -6,4 +6,4 @@
 > [![YouTube](https://img.shields.io/badge/-R%20C%20P-000000?style=flat&logo=youtube)](https://www.youtube.com/channel/UCVjNigF3m2f1NbCMZd1HW_A)
 > [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/channel/UCVjNigF3m2f1NbCMZd1HW_A)
 > **PayPal : paypal.me/rcpcn**<br>
-> **I code in Python and JavaScript**<br>
+> **I code in Python**<br>

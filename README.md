@@ -1,5 +1,5 @@
 # **R C P**<br>
-> [![Visitor Count](https://profile-counter.glitch.me/{rcp6969}/count.svg)](https://www.youtube.com/VENAX59)<br>
+> [![Visitor Count](https://profile-counter.glitch.me/{rcp6969}/count.svg)](https://www.youtube.com/channel/UCVjNigF3m2f1NbCMZd1HW_A)<br>
 > [![](https://komarev.com/ghpvc/?username=rcp6969)](https://www.youtube.com/channel/UCVjNigF3m2f1NbCMZd1HW_A)
 > [![YouTube](https://img.shields.io/badge/-R%20C%20P-000000?style=flat&logo=youtube)](https://www.youtube.com/channel/UCVjNigF3m2f1NbCMZd1HW_A)
 > [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/channel/UCVjNigF3m2f1NbCMZd1HW_A)
